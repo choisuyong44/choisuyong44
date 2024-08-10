@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choisuyong44&label=Profile%20views&color=0e75b6&style=flat" alt="choisuyong44" /> </p>
 
-**2023-ICT Project**<br>
-**2024-Capstone Design**
+**2023-ICT Project -PCB Firmware**<br>
+**2024-Capstone Design - Server**
 
 <h3 align="left">Hello</h3>
 <p align="left">
