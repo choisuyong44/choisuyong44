@@ -5,6 +5,7 @@
 
 **2023-ICT Project -PCB Firmware**<br>
 **2024-Capstone Design - Server**
+**2024-CCube Coding 강사**
 
 <h3 align="left">Hello</h3>
 <p align="left">
