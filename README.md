@@ -7,7 +7,6 @@
 **2024-Capstone Design - Server**<br>
 **2024-CCube Coding 강사(펌웨어 프로젝트 & 정보올림피아드)**
 
-<h3 align="left">Hello</h3>
 <p align="left">
 </p>
 <br><br>
