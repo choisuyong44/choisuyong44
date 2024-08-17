@@ -5,7 +5,7 @@
 
 **2023-ICT Project -PCB Firmware**<br>
 **2024-Capstone Design - Server**<br>
-**2024-CCube Coding 강사(펌웨어 프로젝트 & 정보올림피아드)**
+**2024-CCube Coding 강사(펌웨어 프로젝트 & 정보올림피아드)**<br>
 
 <p align="left">
 </p>
