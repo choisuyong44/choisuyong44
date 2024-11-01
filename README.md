@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm SuyongChoi</h1>
 <h1 align="center">Back-End Engineer</h1>
 
 **2021.09 ~ 2023.01 생태정보모델링 실험실 학부연구생**<br> 
