@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choisuyong44&label=Profile%20views&color=0e75b6&style=flat" alt="choisuyong44" /> </p>
 
 **2023-ICT 프로보노 Project -PCB Firmware 금상**<br>
-**2024-Capstone Design - Server**<br>
+**2024-Capstone Design - Back-End**<br>
 **2024-CCube Coding 강사(펌웨어 프로젝트 & 정보올림피아드)**<br>
 
 <p align="left">
