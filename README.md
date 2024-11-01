@@ -5,8 +5,9 @@
 
 **2021.09 ~ 2023.01 생태정보모델링 실험실 학부연구생**<br> 
 **2023.03 ~ 2023.12 ICT 프로보노 Project -PCB Firmware 금상** https://www.youtube.com/watch?v=8y3naF9y3Wc<br>
-**2023.12 ~ 2023.06 2024-CCube Coding 강사(펌웨어 프로젝트 & 정보올림피아드)**<br>
-**2023.02 ~ 2023.06 2024-Capstone Design - Back-End(Express, MySQL, AWS)**<br>
+**2024.12 ~ 2024.06 2024-CCube Coding 강사(펌웨어 프로젝트 & 정보올림피아드)**<br>
+**2024.02 ~ 2024.06 2024-Capstone Design - Back-End(Express, MySQL, AWS)**<br>
+**2024.07 ~ SAMSUNG SOFTWARE ACADEMY 12기 비전공 자바**
 
 <p align="left">
 </p>
