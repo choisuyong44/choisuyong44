@@ -1,5 +1,3 @@
-<h1 align="center">Back-End Engineer</h1>
-
 ## 👩‍💻 ABOUT ME - BackEnd 개발자
 **2021.09 ~ 2023.01 생태정보모델링 실험실 학부연구생**<br> 
 **2023.03 ~ 2023.12 ICT 프로보노 Project -PCB Firmware 금상** https://www.youtube.com/watch?v=8y3naF9y3Wc<br>
@@ -25,4 +23,4 @@
 
 ## 🏆Problem Solving
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlgmdtl1118)](https://solved.ac/tlgmdtl1118/)
