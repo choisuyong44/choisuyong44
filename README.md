@@ -10,10 +10,10 @@
   **2024.07 ~ SAMSUNG SOFTWARE ACADEMY 12기 비전공 자바**
 
   ## 🏁Interested
-  Web 개발
-  Back-End
-  금융
-  클라우드
+  `Web 개발`
+  `Back-End`
+  `금융`
+  `클라우드`
 
   ## 💪Skill
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
