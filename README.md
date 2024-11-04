@@ -3,6 +3,7 @@
   안녕하세요. 금융 IT와 클라우드, 백엔드 개발에 관심이 많은 최수용입니다.<br>
 
   ## 👩‍💻 ABOUT ME - BackEnd 개발자
+  **2018.03 ~ 2024.08 생명과학전공**
   **2021.09 ~ 2023.01 생태정보모델링 실험실 학부연구생**<br> 
   **2023.03 ~ 2023.12 ICT 프로보노 Project -PCB Firmware 금상**<br> https://www.youtube.com/watch?v=8y3naF9y3Wc<br>
   **2023.12 ~ 2024.06 2024-CCube Coding 강사(펌웨어 프로젝트 & 정보올림피아드)**<br>
