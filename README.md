@@ -37,7 +37,6 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlgmdtl1118)](https://solved.ac/tlgmdtl1118/)
 
   ## :accessibility: Github
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?choisuyong44=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choisuyong44)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
