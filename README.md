@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/01088ced-8995-47fc-902e-3aadc8ffdf68" alt="BAA41570-0A65-44AD-BB94-8E0DC558F3DE" width="200"><br>
-  안녕하세요. 금융 IT와 클라우드, 백엔드 개발에 관심이 많은 최수용입니다.<br>
+  안녕하세요. 금융IT와 클라우드, 백엔드 개발에 관심이 많은 최수용입니다.<br>
 
   ## 👩‍💻 ABOUT ME - BackEnd 개발자
   **2018.03 ~ 2024.08 생명과학전공**<br>
