@@ -7,7 +7,7 @@
   **2023.03 ~ 2023.12 ICT 프로보노 Project 금상 - PCB Firmware 개발**<br> 
   **2023.12 ~ 2024.06 2024-CCube Coding 강사(펌웨어 프로젝트 & 정보올림피아드)**<br>
   **2024.02 ~ 2024.06 2024-우울증 예방을 위한 일기인형 - Back-End(Express, MySQL, AWS)**<br>
-  **2024.07 ~ SAMSUNG SOFTWARE ACADEMY 12기 비전공 자바**
+  **2024.07 ~ SAMSUNG SOFTWARE ACADEMY 12기 자바**
 
   ## 🏁Interested
   `Web 개발`
